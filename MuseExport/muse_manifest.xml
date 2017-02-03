@@ -1,0 +1,43 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="isabeljkim.com" resolutions="1x" timestamp="1486155830029">
+  <folder name="css">
+    <file name="site_global.css" crc="386347516"/>
+    <file name="cv.css" crc="117591045" ref="cv"/>
+    <file name="whoareyou.css" crc="26848951" ref="whoareyou"/>
+    <file name="index.css" crc="3975390702" ref="index"/>
+    <file name="fiction-nonfiction.css" crc="3990606020" ref="fiction-nonfiction"/>
+    <file name="arttextgame.css" crc="28004233" ref="arttextgame"/>
+    <file name="photo.css" crc="3794492636" ref="photo"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:arttextgame:cv:fiction-nonfiction:photo:whoareyou"/>
+    <file name="museutils.js" crc="3851988764" ref="index:arttextgame:cv:fiction-nonfiction:photo:whoareyou"/>
+    <file name="whatinput.js" crc="86476730" ref="index:arttextgame:cv:fiction-nonfiction:photo:whoareyou"/>
+    <file name="museconfig.js" crc="169177150" ref="index:arttextgame:cv:fiction-nonfiction:photo:whoareyou"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:arttextgame:cv:fiction-nonfiction:photo:whoareyou"/>
+    <file name="require.js" crc="4108833657" ref="index:arttextgame:cv:fiction-nonfiction:photo:whoareyou"/>
+    <file name="pie.js" crc="3831537696" ref="arttextgame:fiction-nonfiction:photo:whoareyou"/>
+  </folder>
+  <folder name="images">
+    <file name="sketch port 4.jpg" crc="153318261" seo="true" ref="photo"/>
+    <file name="edited_psds03.jpg" crc="3775068284" seo="true" ref="photo"/>
+    <file name="10 (2).jpg" crc="402490161" seo="true" ref="photo"/>
+    <file name="we_are_watching.gif" crc="160803067" seo="true" ref="photo"/>
+    <file name="12436630_1036294099726196_1898228130_o.jpg" crc="508157297" seo="true" ref="photo"/>
+    <file name="edited_psds09.jpg" crc="479575645" seo="true" ref="photo"/>
+    <file name="12.jpg" crc="399748471" seo="true" ref="photo"/>
+    <file name="25.jpg" crc="4161295790" seo="true" ref="photo"/>
+    <file name="10415749_751803114841964_121098488_o.jpg" crc="4247960861" seo="true" ref="photo"/>
+    <file name="edited_psds02.jpg" crc="331974931" seo="true" ref="photo"/>
+    <file name="sketch port 2.jpg" crc="281955146" seo="true" ref="photo"/>
+    <file name="13.jpg" crc="3861481014" seo="true" ref="photo"/>
+    <file name="sketch port 5.jpg" crc="360991976" seo="true" ref="photo"/>
+    <file name="15.jpg" crc="4258239821" seo="true" ref="photo"/>
+    <file name="headshots_isabel copy.jpg" crc="4163593100" seo="true" ref="whoareyou"/>
+  </folder>
+  <file name="index.html" crc="3890049346" seo="true" mt="1486155785136" redirect="true"/>
+  <file name="arttextgame.html" crc="4246619729" seo="true" mt="1486155785159" redirect="true"/>
+  <file name="cv.html" crc="531722679" seo="true" mt="1486155785125" redirect="true"/>
+  <file name="fiction-nonfiction.html" crc="155378763" seo="true" mt="1486155785131" redirect="true"/>
+  <file name="photo.html" crc="3981066002" seo="true" mt="1486155785139" redirect="true"/>
+  <file name="whoareyou.html" crc="4106556036" seo="true" mt="1486155785122" redirect="true"/>
+</manifest>
